@@ -1,10 +1,10 @@
-package ipeters.address;
+package ipeters.address_service.services;
 
 /* carlpeters created on 17/12/2024 inside the package - ipeters.webclient_demo.services */
 
-import ipeters.webclient_demo_address_service.entities.Address;
-import ipeters.webclient_demo_address_service.repositories.AddressRepo;
-import ipeters.webclient_demo_address_service.response.AddressResponse;
+import ipeters.address_service.entities.Address;
+import ipeters.address_service.repositories.AddressRepo;
+import ipeters.address_service.response.AddressResponse;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

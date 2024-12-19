@@ -1,10 +1,10 @@
-package ipeters.address;
+package ipeters.address_service.controllers;
 
 /* carlpeters created on 17/12/2024 inside the package - ipeters.webclient_demo_address_service.controllers */
 
-import ipeters.webclient_demo_address_service.entities.Address;
-import ipeters.webclient_demo_address_service.response.AddressResponse;
-import ipeters.webclient_demo_address_service.services.AddressService;
+import ipeters.address_service.entities.Address;
+import ipeters.address_service.response.AddressResponse;
+import ipeters.address_service.services.AddressService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

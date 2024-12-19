@@ -1,4 +1,4 @@
-package ipeters.employee-service;
+package ipeters.employee_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebclientEmployeeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ipeters.employee.WebclientEmployeeApplication.class, args);
+        SpringApplication.run(WebclientEmployeeApplication.class, args);
     }
 
 }

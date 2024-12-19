@@ -1,5 +1,4 @@
-package ipeters.employee-service.response;
-
+package ipeters.address_service.response;
 
 /* carlpeters created on 17/12/2024 inside the package - ipeters.webclient_demo.response */
 

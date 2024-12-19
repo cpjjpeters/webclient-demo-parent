@@ -1,4 +1,4 @@
-package ipeters.address;
+package ipeters.address_service.configuration;
 
 /* carlpeters created on 17/12/2024 inside the package - ipeters.webclient_demo_address_service.configuration */
 

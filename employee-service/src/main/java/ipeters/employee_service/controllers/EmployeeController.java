@@ -1,8 +1,8 @@
-package ipeters.employee-service.controllers;
+package ipeters.employee_service.controllers;
 
-import ipeters.webclient_demo.entities.Employee;
-import ipeters.webclient_demo.response.EmployeeResponse;
-import ipeters.webclient_demo.services.EmployeeService;
+import ipeters.employee_service.entities.Employee;
+import ipeters.employee_service.response.EmployeeResponse;
+import ipeters.employee_service.services.EmployeeService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

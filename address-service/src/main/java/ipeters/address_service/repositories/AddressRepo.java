@@ -1,6 +1,6 @@
-package ipeters.address;
+package ipeters.address_service.repositories;
 
-import ipeters.webclient_demo_address_service.entities.Address;
+import ipeters.address_service.entities.Address;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

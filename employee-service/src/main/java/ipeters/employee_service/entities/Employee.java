@@ -1,4 +1,4 @@
-package ipeters.employee-service.entities;
+package ipeters.employee_service.entities;
 
 
 import jakarta.persistence.Column;

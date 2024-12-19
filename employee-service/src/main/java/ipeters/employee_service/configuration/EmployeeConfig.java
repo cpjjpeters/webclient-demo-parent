@@ -1,4 +1,4 @@
-package ipeters.employee-service.configuration;
+package ipeters.employee_service.configuration;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Value;

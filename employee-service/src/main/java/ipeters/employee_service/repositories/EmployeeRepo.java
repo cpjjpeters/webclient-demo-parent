@@ -1,6 +1,7 @@
-package ipeters.employee-service.repositories;
+package ipeters.employee_service.repositories;
 
 
+import ipeters.employee_service.entities.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

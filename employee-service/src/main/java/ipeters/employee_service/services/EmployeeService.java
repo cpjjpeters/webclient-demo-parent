@@ -1,5 +1,9 @@
-package ipeters.employee-service.services;
+package ipeters.employee_service.services;
 
+import ipeters.employee_service.entities.Employee;
+import ipeters.employee_service.repositories.EmployeeRepo;
+import ipeters.employee_service.response.AddressResponse;
+import ipeters.employee_service.response.EmployeeResponse;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

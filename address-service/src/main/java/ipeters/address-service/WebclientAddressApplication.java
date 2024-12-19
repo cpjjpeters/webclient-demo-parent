@@ -1,4 +1,4 @@
-package ipeters.webclient_demo_address_service;
+package ipeters.address;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
